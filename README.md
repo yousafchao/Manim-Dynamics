@@ -1,4 +1,5 @@
 # Manim-Dynamics
+It's my first Project for this area, so u could see it as the recording of Code Study!!!
 
 A Manim-powered library for animating attractors and phase portraits of classic dynamical systems (e.g., Lorenz, Rössler), built as a learning-first toolkit with applications in neuroscience and anesthesia research.
 
